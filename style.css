@@ -1,0 +1,74 @@
+body{
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  color: white;
+  display: block;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.title{
+  color: #00FF00;
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+}
+
+.navigatore{
+  border:15px solid #00FF00;
+  background-color: #00FF00;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+main{
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+.monopattino{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+span{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.5);
+  width: 60%;
+  margin:auto;
+  border-radius: 30px;
+  padding: 50px;
+}
+
+#carica1{
+  border: 15px solid #FFC500;
+  border-radius: 5px;
+  width: 40%;
+}
+
+#carica2{
+  border: 15px solid #46D101;
+  border-radius: 5px;
+  width: 60%;
+}
+
+#carica3{
+  border: 15px solid #F74848;
+  border-radius: 5px;
+  width: 10%;
+}
+
+section{
+  padding-bottom: 20px;
+}
